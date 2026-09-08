@@ -469,7 +469,7 @@ Escriba el nombre del curso:
 El usuario puede introducir:
 
 ```text
-Herramientas de Programación Aplicada III
+Metodos Numericos
 ```
 
 Este valor se almacena utilizando la propiedad:
@@ -481,7 +481,7 @@ myLibro.NombreCurso = elNombreCurso;
 Luego el programa muestra el nuevo valor:
 
 ```text
-El nombre del curso es: Herramientas de Programación Aplicada III
+El nombre del curso es: Metodos Numericos
 ```
 
 ---

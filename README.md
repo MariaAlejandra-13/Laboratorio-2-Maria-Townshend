@@ -623,7 +623,11 @@ Material utilizado para el desarrollo del laboratorio:
 # Información del Estudiante
 
 **Nombre:** Maria Townshend
+
 **Curso:** Herramientas de Programación Aplicada III
-**Institución:** Universidad Tecnológica de Panamá  
+
+**Institución:** Universidad Tecnológica de Panamá 
+
 **Facultad:** Facultad de Ingeniería de Sistemas Computacionales  
+
 **Instructor:** Ing. Irina Fong  
